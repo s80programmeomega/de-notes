@@ -11,7 +11,7 @@ Week 0 starts Sep 29, 2026; Week 1 starts Oct 5; Week 12 ends Dec 27.
 - [x] **Tue** (1.5h) — Install Docker, Python env, packages
 - [x] **Thu** (1h) — Create GitHub repos; configure ruff
 - [x] **Fri** (1.5h) — Postgres via Compose; load a CSV
-- [ ] **Sat** (2h) — Download datasets; DuckDB; data dictionary
+- [x] **Sat** (2h) — Download datasets; DuckDB; data dictionary
 - [ ] ★ **Deliverable:** Environment ready (Docker, Python, Postgres, repos)
 
 Notes:
